@@ -1,0 +1,16 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "> Mock REST API server with [json-server](https://github.com/typicode/json-server) Package.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Shahab Shakoor",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.16.3",
+    "trdb": "^0.0.6"
+  }
+}
